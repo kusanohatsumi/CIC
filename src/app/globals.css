@@ -200,6 +200,7 @@ section {
 }
 .evaluation > input {
   appearance: none;
+  padding-right:8px;
 }
 .good::before {
   content: "";
