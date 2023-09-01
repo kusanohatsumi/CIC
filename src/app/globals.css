@@ -198,6 +198,9 @@ section {
   height: 20px;
   background: url("/images/comment.svg") no-repeat;
 }
+.evaluation {
+  margin-right: 12px;
+}
 .evaluation > input {
   appearance: none;
 }
@@ -216,7 +219,7 @@ section {
   display: block;
   width: 22px;
   height: 22px;
-  margin: 0 8px 0px 12px;
+  margin-left: 8px;
   background: url("/images/offBad.svg") no-repeat;
 }
 .bad:checked::before {
