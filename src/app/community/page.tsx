@@ -43,7 +43,7 @@ export default function Community() {
           <figure>
             <Image
               alt="icon"
-              src="/images/image01.jpg"
+              src="/images/image02.svg"
               width={52}
               height={52}
             />
@@ -52,7 +52,7 @@ export default function Community() {
           <figure>
             <Image
               alt="icon"
-              src="/images/image01.jpg"
+              src="/images/image03.svg"
               width={52}
               height={52}
             />
@@ -61,7 +61,7 @@ export default function Community() {
           <figure>
             <Image
               alt="icon"
-              src="/images/image01.jpg"
+              src="/images/image04.svg"
               width={52}
               height={52}
             />
@@ -70,7 +70,7 @@ export default function Community() {
           <figure>
             <Image
               alt="icon"
-              src="/images/image01.jpg"
+              src="/images/image05.svg"
               width={52}
               height={52}
             />
@@ -82,7 +82,7 @@ export default function Community() {
             <figure className="username">
               <Image
                 alt="アイコン"
-                src="/images/image01.jpg"
+                src="/images/icon01.svg"
                 width={35}
                 height={35}
               />
@@ -117,7 +117,7 @@ export default function Community() {
             <figure className="username">
               <Image
                 alt="アイコン"
-                src="/images/image01.jpg"
+                src="/images/icon02.svg"
                 width={35}
                 height={35}
               />
@@ -152,7 +152,7 @@ export default function Community() {
             <figure className="username">
               <Image
                 alt="アイコン"
-                src="/images/image01.jpg"
+                src="/images/icon03.svg"
                 width={35}
                 height={35}
               />
