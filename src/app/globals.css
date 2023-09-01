@@ -200,7 +200,6 @@ section {
 }
 .evaluation > input {
   appearance: none;
-  padding-right:8px;
 }
 .good::before {
   content: "";
@@ -217,7 +216,7 @@ section {
   display: block;
   width: 22px;
   height: 22px;
-  margin-left: 12px;
+  margin: 0 8px 0px 12px;
   background: url("/images/offBad.svg") no-repeat;
 }
 .bad:checked::before {
