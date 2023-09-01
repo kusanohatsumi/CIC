@@ -40,7 +40,7 @@ export default function Posting() {
           >
             <Image
               alt="アイコン"
-              src="/images/image01.jpg"
+              src="/images/icon.svg"
               width={35}
               height={35}
             />
